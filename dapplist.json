@@ -1,6 +1,12 @@
 {
   "aptos": [
     {
+      "name": "ComingChat ARTReward",
+      "type": "RewardFI",
+      "icon": "https://postimg.cc/BjjDB5B0",
+      "link": "https://6311e3450d35b.site123.me/"
+    },
+    {
       "name": "OmniBTC",
       "type": "DEFI,Aggregation",
       "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
